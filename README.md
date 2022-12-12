@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced Blockchain Development, Web3 Decentralized Applications, AI Technology
 - 💞️ I’m here to offer an opportunity to collaborate with our experience and profit from our trade signals.
 - 
--    This repository is for a personal Escrow Account where you will deposit 1 ETH as your collateral.
+-    This repository is for a personal Escrow Account where you will deposit 1 ETH+ as your collateral.
 -    The account is where your ETH is held while we perform trades(which we perform during a 4HR period)
 -    We do not have access to your ETH as you are the owner of the contract.
 -    (our code is clear of obfuscation or malicious activity and there is no address of ours to back door)
